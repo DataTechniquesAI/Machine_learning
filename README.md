@@ -121,4 +121,4 @@ Linear Regression by about **$3,000 (~15%)** in average prediction error.
 
 ## Author
 
-Sumaiya Aslam ([@DataTechniquesAI](https://github.com/DataTechniquesAI))
+Sumia ([@DataTechniquesAI](https://github.com/DataTechniquesAI))
